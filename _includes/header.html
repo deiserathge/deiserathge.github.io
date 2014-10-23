@@ -1,0 +1,25 @@
+<header class="site-header">
+
+  <div class="wrap">
+    <a href="{{site.baseurl}}/">
+      <img src="{{ site.baseurl }}/images/deise.JPG"></img>
+    </a>
+  </div>
+  <div class="nav-bar">
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/">HOME</a></li>
+        <li><a href="#">CATEGORIAS</a>
+			<ul>
+		   	  {% for category in site.categories %}
+                <li><a href="{{ site.baseurl }}/{{ category | first }}">{{ category | first }}</a></li>
+			  {% endfor %}                  
+            </ul>
+        </li>
+        <li><a href="{{ site.baseurl }}/about">SOBRE</a></li>
+        <li><a href="{{ site.baseurl }}/contato">CONTATO</a></li>
+      </ul>
+    </nav>
+  </div>
+
+</header>

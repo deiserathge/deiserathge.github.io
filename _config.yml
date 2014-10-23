@@ -1,0 +1,17 @@
+# Site settings
+title: Deise Rathge
+email: deiserathge@gmail.com
+username: deiserathge
+description: "Choose a Job you love and you'll never have to work a day!"
+baseurl: "/deise-blog"
+url: "http://deiserathge.com"
+paginate_path: "blog/page:num"
+paginate: 2
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+ - deploy.sh
+ - Gemfile
+ - Gemfile.lock

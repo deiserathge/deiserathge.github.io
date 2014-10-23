@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h2>Postagens mais recentes:</h2>
+  <ul class="posts">
+    {% for post in paginator.posts %}
+      <div class="post">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <img class="post-image" src="{{site.baseurl}}{{post.image}}" href="#"></img>
+      </a>
+      <div class="clear">
+        <div class="left">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+        </div>
+        <div class="right">
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>
+      </div>
+      <div>
+    {% endfor %}
+  </ul>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <span><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></span>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <span><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></span>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+</div>
