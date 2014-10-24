@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deise Rathge</title>
+    <description>Choose a Job you love and you&#39;ll never have to work a day!</description>
+    <link>http://deiserathge.com/deise-blog/</link>
+    <atom:link href="http://deiserathge.com/deise-blog/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Outro exemplo</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas scelerisque lectus diam. Duis purus velit, lobortis non gravida feugiat, eleifend at velit. Quisque volutpat sodales ligula, ut molestie risus aliquet non. Pellentesque tristique tincidunt lacus, at egestas risus porttitor vitae. Cras eros est, semper elementum risus sed, ornare luctus magna. Ut mollis mattis est a rhoncus. Praesent sed nibh rutrum, lobortis nisi sit amet, lobortis nulla. Suspendisse lacinia id neque vitae congue. Curabitur et blandit risus. Donec cursus diam et justo porttitor vulputate.&lt;/p&gt;
+
+&lt;p&gt;Donec aliquam nunc ultricies, bibendum turpis eget, luctus libero. Curabitur ante ante, blandit ut est eget, venenatis egestas eros. Sed rhoncus eros ac enim ullamcorper, nec dapibus mauris luctus. Vestibulum aliquet porttitor tellus, eget adipiscing tellus. Nulla cursus, mi eget semper placerat, eros lacus convallis orci, a tincidunt nunc est vel arcu. Proin orci metus, vehicula id laoreet in, semper ac urna. Vestibulum faucibus accumsan libero quis pulvinar. Fusce tristique sapien lacus, sed cursus nisi mattis eu. Maecenas ultricies purus eu volutpat tincidunt. Suspendisse faucibus adipiscing metus eu consectetur. Vestibulum eu lectus leo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.google.com&quot;&gt;link-qualquer&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 May 2014 09:08:58 -0300</pubDate>
+        <link>http://deiserathge.com/deise-blog/casais/2014/05/30/outro-exemplo/</link>
+        <guid isPermaLink="true">http://deiserathge.com/deise-blog/casais/2014/05/30/outro-exemplo/</guid>
+      </item>
+    
+      <item>
+        <title>Mais algumas fotos</title>
+        <description>&lt;p&gt;Esse aqui é um exemplo &lt;/p&gt;
+
+&lt;h2 id=&quot;titulo&quot;&gt;Titulo&lt;/h2&gt;
+
+&lt;p&gt;bla bla bla bla bla&lt;/p&gt;
+
+&lt;h3 id=&quot;varias-fotos&quot;&gt;Varias fotos&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/deise-blog/images/bla.JPG&quot; alt=&quot;gnr-maio&quot; /&gt; 
+&lt;img src=&quot;/deise-blog/images/aninha.JPG&quot; alt=&quot;gnr-maio&quot; /&gt; 
+&lt;img src=&quot;/deise-blog/images/casal.JPG&quot; alt=&quot;gnr-maio&quot; /&gt; 
+&lt;img src=&quot;/deise-blog/images/aninha.JPG&quot; alt=&quot;gnr-maio&quot; /&gt; &lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 May 2014 09:08:58 -0300</pubDate>
+        <link>http://deiserathge.com/deise-blog/familia/2014/05/30/mais-algumas-fotos/</link>
+        <guid isPermaLink="true">http://deiserathge.com/deise-blog/familia/2014/05/30/mais-algumas-fotos/</guid>
+      </item>
+    
+      <item>
+        <title>Fotos legais!</title>
+        <description>&lt;p&gt;Aqui estao algumas fotos bla bla bla.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;E isso aqui é muito importante&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/deise-blog/images/bla.JPG&quot; alt=&quot;gnr-maio&quot; /&gt; &lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 May 2014 09:08:58 -0300</pubDate>
+        <link>http://deiserathge.com/deise-blog/casamentos/2014/05/26/fotos-legais/</link>
+        <guid isPermaLink="true">http://deiserathge.com/deise-blog/casamentos/2014/05/26/fotos-legais/</guid>
+      </item>
+    
+  </channel>
+</rss>
